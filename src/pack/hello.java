@@ -10,4 +10,8 @@ public class hello {
 		System.out.println("hi i am making changes in project3");
 	}
 
+	
+	public void addbranch() {
+		System.out.println("adding to new branch");
+	}
 }
