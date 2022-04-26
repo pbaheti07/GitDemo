@@ -14,4 +14,11 @@ public class hello {
 	public void addbranch() {
 		System.out.println("adding to new branch");
 	}
+	
+	public void addbranch1() {
+		System.out.println("adding to new branch");
+	}
+	public void addbranch2() {
+		System.out.println("adding to new branch");
+	}
 }
